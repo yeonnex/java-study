@@ -1,4 +1,4 @@
-1. JVM 은 무엇이며 자바 코드는 어떻게 실행되는 것인가?
+# 1. JVM 은 무엇이며 자바 코드는 어떻게 실행되는 것인가?
 ### 목표
 자바 소스파일(.java)을 JVM 으로 실행하는 과정 이해하기.
 
@@ -183,7 +183,7 @@ JRE 는 위에서 다뤘으므로, 여기서는 Development Tools 에 대해 알
 
 
 
-출처
+참조
 https://www.baeldung.com/jvm-vs-jre-vs-jdk
 
 
